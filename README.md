@@ -4,3 +4,5 @@ Tugas Individu 1 : aplikasi implementasi Simetrik Kriptografi dengan bahasa Pyth
 2. Vigenere Chiper
 3. Substitution Chiper
 4. Transposition Chiper
+
+Diva Rahmaningtyas Citra Ayu Pradani (L200200237)
